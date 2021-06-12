@@ -1,1 +1,1 @@
-A game application built on andorid studio
+A game application built on android studio
